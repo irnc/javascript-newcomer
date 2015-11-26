@@ -1,0 +1,1 @@
+- https://egghead.io/lessons/ecmascript-6-generators
