@@ -6,5 +6,6 @@
 
 ## Support
 
-- Node.js 5.0.0
+- Node.js 5.0.0 (without a flag)
 - Google Chrome 45
+- http://kangax.github.io/compat-table/es6/#test-generators
