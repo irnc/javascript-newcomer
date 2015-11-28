@@ -95,3 +95,5 @@ How this matches to `Symbol` in JavaScript?
 
 - https://en.wikipedia.org/wiki/Programming_paradigm
 - http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf
+- http://www.jswebtools.org/
+  - https://github.com/brownplt
